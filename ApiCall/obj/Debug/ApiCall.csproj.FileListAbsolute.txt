@@ -1,0 +1,14 @@
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\bin\Debug\ApiCall.exe.config
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\bin\Debug\ApiCall.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\bin\Debug\ApiCall.pdb
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\obj\Debug\ApiCall.csprojAssemblyReference.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\obj\Debug\ApiCall.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\obj\Debug\ApiCall.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\ApiCall\obj\Debug\ApiCall.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\bin\Debug\ApiCall.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\bin\Debug\ApiCall.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\bin\Debug\ApiCall.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\obj\Debug\ApiCall.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\obj\Debug\ApiCall.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\obj\Debug\ApiCall.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ApiCall\obj\Debug\ApiCall.pdb

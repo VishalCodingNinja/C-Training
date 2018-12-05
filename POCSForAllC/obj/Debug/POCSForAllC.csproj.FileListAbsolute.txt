@@ -1,0 +1,11 @@
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\obj\Debug\POCSForAllC.csprojAssemblyReference.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\obj\Debug\POCSForAllC.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\bin\Debug\POCSForAllC.exe.config
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\bin\Debug\POCSForAllC.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\bin\Debug\POCSForAllC.pdb
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\obj\Debug\POCSForAllC.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\POCSForAllC\obj\Debug\POCSForAllC.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\POCSForAllC\obj\Debug\POCSForAllC.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\POCSForAllC\obj\Debug\POCSForAllC.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\POCSForAllC\obj\Debug\POCSForAllC.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\POCSForAllC\obj\Debug\POCSForAllC.pdb

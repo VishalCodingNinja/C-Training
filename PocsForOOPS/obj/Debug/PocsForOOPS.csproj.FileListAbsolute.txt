@@ -1,0 +1,6 @@
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\bin\Debug\PocsForOOPS.exe.config
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\bin\Debug\PocsForOOPS.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\bin\Debug\PocsForOOPS.pdb
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\obj\Debug\PocsForOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\obj\Debug\PocsForOOPS.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\PocsForOOPS\obj\Debug\PocsForOOPS.pdb

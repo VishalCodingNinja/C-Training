@@ -1,0 +1,17 @@
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Grades.Test.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Grades.Test.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\obj\Debug\Grades.Test.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\obj\Debug\Grades.Test.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\obj\Debug\Grades.Test.csproj.CopyComplete
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\obj\Debug\Grades.Test.dll
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\obj\Debug\Grades.Test.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\ClassExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\ClassExample.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\Grades.Test\bin\Debug\ClassExample.exe.config

@@ -1,0 +1,10 @@
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\bin\Debug\EntityFrameworkLinqExample.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\bin\Debug\EntityFrameworkLinqExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\bin\Debug\EntityFrameworkLinqExample.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\bin\Debug\EntityFramework.dll
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\bin\Debug\EntityFramework.xml
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\obj\Debug\EntityFrameworkLinqExample.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\obj\Debug\EntityFrameworkLinqExample.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\obj\Debug\EntityFrameworkLinqExample.csproj.CopyComplete
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\obj\Debug\EntityFrameworkLinqExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\EntityFrameworkLinqExample\obj\Debug\EntityFrameworkLinqExample.pdb

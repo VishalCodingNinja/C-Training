@@ -1,0 +1,14 @@
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\bin\Debug\Day1Pocs.exe.config
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\bin\Debug\Day1Pocs.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\bin\Debug\Day1Pocs.pdb
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\obj\Debug\Day1Pocs.csprojAssemblyReference.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\obj\Debug\Day1Pocs.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\obj\Debug\Day1Pocs.exe
+C:\Users\Vishal.singh\source\repos\POCSForAllC\Day1Pocs\obj\Debug\Day1Pocs.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\bin\Debug\Day1Pocs.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\bin\Debug\Day1Pocs.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\bin\Debug\Day1Pocs.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\obj\Debug\Day1Pocs.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\obj\Debug\Day1Pocs.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\obj\Debug\Day1Pocs.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\Day1Pocs\obj\Debug\Day1Pocs.pdb

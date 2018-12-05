@@ -1,0 +1,7 @@
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\bin\Debug\DynamicFeatures.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\obj\Debug\DynamicFeatures.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\obj\Debug\DynamicFeatures.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\bin\Debug\DynamicFeatures.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\bin\Debug\DynamicFeatures.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\obj\Debug\DynamicFeatures.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ConsoleApp1\DynamicFeatures\obj\Debug\DynamicFeatures.csprojAssemblyReference.cache

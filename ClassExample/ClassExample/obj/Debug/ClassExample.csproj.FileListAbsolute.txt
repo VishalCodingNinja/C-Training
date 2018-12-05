@@ -1,0 +1,14 @@
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+D:\$EuroTraining\Training\Day50_31_10_2018_.Net\C#Training\ClassExample\ClassExample\obj\Debug\ClassExample.pdb

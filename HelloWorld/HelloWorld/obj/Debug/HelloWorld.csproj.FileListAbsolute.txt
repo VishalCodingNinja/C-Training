@@ -1,0 +1,7 @@
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\$EuroTraining\Training\Day50_31_10_2018\C#Training\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
